@@ -1,0 +1,1 @@
+Server=retake-errorhead.pl;port=3306;database=32732788_project;uid=32732788_project;password=Gregtab2004;

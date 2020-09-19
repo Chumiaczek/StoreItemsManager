@@ -1,0 +1,29 @@
+﻿  Login.cpp
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(642,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(657,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(690,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(719,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(783,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(818,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(860,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(877,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(914,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(940,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(958,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Login.h(173,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Login.h(216,21): warning C4101: 'e': unreferenced local variable
+  Store_Menu.cpp
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(642,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(657,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(690,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(719,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(783,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(818,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(860,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(877,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(914,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(940,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\StoreItemManager\Store_Menu.h(958,20): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  StoreItemManager.vcxproj -> C:\Users\Grzesiek\Desktop\Coding\C++\StoreItemManager\1.0\StoreItemManager\Debug\StoreItemManager.exe
