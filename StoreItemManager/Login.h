@@ -161,7 +161,7 @@ namespace StoreItemManager {
 
 		}
 #pragma endregion
-	String^ connstring = "Server=retake-errorhead.pl;port=3306;database=32732788_project;uid=32732788_project;password=Gregtab2004";
+	String^ connstring = "Server=yourserver;port=3306;database=yourdbname;uid=yourusername;password=yourpassword";
 	MySqlConnection^ Conn = gcnew MySqlConnection(connstring);
 	private: System::Void Login_Load(System::Object^ sender, System::EventArgs^ e) {
 		try
