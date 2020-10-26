@@ -1,0 +1,25 @@
+﻿  Login.cpp
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddingAdmin.h(197,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddingAdmin.h(205,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddingAdmin.h(230,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddingAdmin.h(262,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddAdmin.h(211,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddAdmin.h(234,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddAdmin.h(251,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddAdmin.h(278,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddItem.h(247,34): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\AddItem.h(283,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\DeleteItem.h(237,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\DeleteItem.h(262,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\DeleteItem.h(280,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\UpdateItem.h(240,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\UpdateItem.h(274,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\UpdateItem.h(292,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\UpdateItem.h(317,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\MenuMain.h(195,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\Login.h(185,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\Login.h(218,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\Login.h(238,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Store Item Manager\Login.h(268,20): warning C4101: 'e': unreferenced local variable
+  AddAdmin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Store Item Manager.vcxproj -> C:\Users\Grzesiek\OneDrive - Eduwarszawa\Pulpit\Coding\C++\StoreItemManager\2.0\Store Item Manager\Debug\Store Item Manager.exe
